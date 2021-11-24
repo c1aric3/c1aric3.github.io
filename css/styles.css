@@ -1,0 +1,50 @@
+body {
+  background-color: ghostwhite;
+  text-align: center;
+}
+
+
+h1 {
+  color: deepskyblue;
+  font-family: verdana;
+  font-size: 200%;
+}
+
+
+p {
+  color: black;
+  font-family: verdana;
+  font-size: 100%;
+  
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkorange;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+div {
+  height: 200px;
+  width: 50%;
+  background-color: lightsteelblue;
+  margin: auto;
+}
